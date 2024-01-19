@@ -1,0 +1,7 @@
+# BEGIN: Docker project
+.dockerignore
+.dockerignore_global
+# END: Docker project
+.history
+volume
+.DS_Store
